@@ -1,0 +1,7 @@
+{
+  "name": "Weather bot bi ai",
+  "description": "it is a simple bot to show the weather",
+  "repository": "https://github.com/Gamer-AI-13/WeatherTelegramBot",
+  "logo": "https://telegra.ph/file/35136c0885c7ad3a35a6b.jpg",
+  "keywords": ["python", "telegrambot", "weather"]
+}
