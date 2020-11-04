@@ -6,7 +6,7 @@ import utils
 from os import environ
 
 
-bot = Bot(token=environ["1371051662:AAG3J8XLw0HqHyKGmccOoIZAhWjetABrYpo"])  # Pass token as environment variable
+bot = Bot(token=environ["SOME_TOKEN"])  # Pass token as environment variable
 dp = Dispatcher(bot)
 
 
